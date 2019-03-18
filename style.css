@@ -1,0 +1,22 @@
+.page-header{
+    padding-bottom: 9px;
+    margin: 0px 0 20px;
+    
+    background-color: darkslategray;
+    text-align: center;
+    color: whitesmoke;
+}
+.page-header h1{
+    font-weight:bolder;
+    text-shadow: 2px 2px 0px grey;
+    font-size: 60px;
+   
+}
+.page-header{
+    display: none;
+}
+.logo-bg{
+    background-color: darkslategray;
+    font-weight: bolder;
+    text-shadow: 2px 2px 0px grey;
+}
